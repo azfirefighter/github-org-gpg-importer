@@ -1,4 +1,4 @@
-# GitHub Public Key Getter
+# Organisation GPG Importer
 
 **Import GPG public keys for all the users in a specified GitHub organisation, and save the keys to files as well**
 
@@ -13,4 +13,4 @@
 
 ## Usage
 
-`./get-gpg-keys.sh` and follow the prompts
+`./ogi.sh` and follow the prompts
